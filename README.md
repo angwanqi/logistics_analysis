@@ -21,5 +21,5 @@ The task is to identify all the orders that are considered late depending on the
 - Only consider the date when determining if the order is late; ignore the time.
 
 ## Data
-SLA Matrix.xlsx - This contains the SLA for each pickup-destination pair
-delivery_orders_march.csv - This contains the all devlivery orders data to be used in the exercise
+- SLA Matrix.xlsx - This contains the SLA for each pickup-destination pair
+- delivery_orders_march.csv - This contains the all devlivery orders data to be used in the exercise
