@@ -19,3 +19,7 @@ The task is to identify all the orders that are considered late depending on the
 - SLA calculation begins from the next day after pickup (Day 0 = Day of Pickup; Day 1 = Next Day after Pickup)
 - 2nd Attempt must be no later than 3 working days after the 1st Attempt, regardless of origin to destination route
 - Only consider the date when determining if the order is late; ignore the time.
+
+## Data
+SLA Matrix.xlsx - This contains the SLA for each pickup-destination pair
+delivery_orders_march.csv - This contains the all devlivery orders data to be used in the exercise
